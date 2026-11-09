@@ -1,0 +1,2 @@
+# Streamlit navigation
+The app uses a sidebar navigation control in `app.py` to keep all requested sections in one consistent application. This avoids Streamlit's automatic multipage discovery creating duplicate navigation entries. Sections: Home Dashboard, User Profile, Skill Assessment, Career Prediction, Skill Gap Analysis, Career Recommendations, Skills to Learn, Model Performance, About Project.

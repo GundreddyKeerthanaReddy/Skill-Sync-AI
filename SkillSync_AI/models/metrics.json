@@ -1,0 +1,77 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.5384615384615384,
+    "precision": 0.4487179487179487,
+    "recall": 0.5384615384615384,
+    "f1": 0.47435897435897434,
+    "labels": [
+      "AI Engineer",
+      "Backend Developer",
+      "Business Analyst",
+      "Cloud Engineer",
+      "Cybersecurity Analyst",
+      "Data Analyst",
+      "Data Scientist",
+      "Database Administrator",
+      "DevOps Engineer",
+      "Frontend Developer",
+      "Full Stack Developer",
+      "Machine Learning Engineer",
+      "Mobile App Developer",
+      "QA Engineer",
+      "Software Developer",
+      "UI UX Designer",
+      "Web Developer"
+    ]
+  },
+  "Random Forest": {
+    "accuracy": 0.23076923076923078,
+    "precision": 0.15384615384615385,
+    "recall": 0.23076923076923078,
+    "f1": 0.17948717948717946,
+    "labels": [
+      "AI Engineer",
+      "Backend Developer",
+      "Business Analyst",
+      "Cloud Engineer",
+      "Cybersecurity Analyst",
+      "Data Analyst",
+      "Data Scientist",
+      "Database Administrator",
+      "DevOps Engineer",
+      "Frontend Developer",
+      "Full Stack Developer",
+      "Machine Learning Engineer",
+      "Mobile App Developer",
+      "QA Engineer",
+      "Software Developer",
+      "UI UX Designer",
+      "Web Developer"
+    ]
+  },
+  "Support Vector Machine": {
+    "accuracy": 0.5384615384615384,
+    "precision": 0.4487179487179487,
+    "recall": 0.5384615384615384,
+    "f1": 0.47435897435897434,
+    "labels": [
+      "AI Engineer",
+      "Backend Developer",
+      "Business Analyst",
+      "Cloud Engineer",
+      "Cybersecurity Analyst",
+      "Data Analyst",
+      "Data Scientist",
+      "Database Administrator",
+      "DevOps Engineer",
+      "Frontend Developer",
+      "Full Stack Developer",
+      "Machine Learning Engineer",
+      "Mobile App Developer",
+      "QA Engineer",
+      "Software Developer",
+      "UI UX Designer",
+      "Web Developer"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+career,skills,description
+Software Developer,"python, java, data structures, algorithms, git, sql",Builds and maintains software applications.
+Software Developer,"java, oop, problem solving, git, sql, debugging",Develops reliable software systems.
+Software Developer,"python, javascript, algorithms, github, testing",Creates and tests application code.
+Data Analyst,"sql, excel, python, pandas, statistics, tableau",Turns data into actionable business insights.
+Data Analyst,"excel, sql, power bi, statistics, data visualization",Builds reports and dashboards.
+Data Analyst,"python, pandas, numpy, matplotlib, sql",Cleans and analyzes structured data.
+Data Scientist,"python, statistics, machine learning, pandas, numpy, scikit-learn",Builds statistical and predictive models.
+Data Scientist,"python, sql, tensorflow, data visualization, statistics",Uses data and models to solve complex problems.
+Data Scientist,"machine learning, python, pandas, feature engineering, scikit-learn",Develops data-driven predictive solutions.
+Machine Learning Engineer,"python, machine learning, scikit-learn, tensorflow, git, numpy",Deploys and maintains machine learning systems.
+Machine Learning Engineer,"python, deep learning, pytorch, model evaluation, data preprocessing",Builds production-oriented ML pipelines.
+Machine Learning Engineer,"python, algorithms, pandas, scikit-learn, feature engineering",Trains and improves predictive models.
+AI Engineer,"python, machine learning, deep learning, nlp, tensorflow",Builds intelligent AI-powered applications.
+AI Engineer,"python, nlp, transformers, scikit-learn, model deployment",Integrates AI models into software products.
+AI Engineer,"python, neural networks, computer vision, pytorch, git",Develops applied artificial intelligence systems.
+Web Developer,"html, css, javascript, react, git, responsive design",Builds interactive websites and web interfaces.
+Web Developer,"javascript, html, css, api, debugging, github",Creates and maintains web experiences.
+Web Developer,"html, css, javascript, ui design, testing",Implements accessible responsive interfaces.
+Frontend Developer,"html, css, javascript, react, responsive design, figma",Builds client-side user interfaces.
+Frontend Developer,"javascript, css, html, accessibility, git",Creates polished web interfaces.
+Backend Developer,"python, java, sql, api, databases, git",Builds server-side services and data layers.
+Backend Developer,"python, django, sql, rest api, testing",Develops backend application logic.
+Backend Developer,"java, databases, algorithms, api, debugging",Maintains scalable backend systems.
+Full Stack Developer,"html, css, javascript, python, sql, api, git",Works across frontend and backend systems.
+Full Stack Developer,"javascript, react, python, databases, rest api",Builds end-to-end web applications.
+Full Stack Developer,"html, css, node.js, sql, git, testing",Develops complete web solutions.
+Cybersecurity Analyst,"networking, linux, cybersecurity, python, wireshark, risk assessment",Monitors systems and investigates security threats.
+Cybersecurity Analyst,"network security, linux, vulnerability assessment, cryptography, scripting",Identifies and mitigates security risks.
+Cybersecurity Analyst,"python, security, networking, incident response, wireshark",Protects organizational systems and data.
+Cloud Engineer,"aws, azure, linux, networking, python, cloud computing",Designs and manages cloud infrastructure.
+Cloud Engineer,"aws, docker, linux, ci/cd, monitoring",Maintains reliable cloud platforms.
+Cloud Engineer,"azure, cloud computing, networking, scripting, git",Implements cloud-based infrastructure.
+DevOps Engineer,"linux, docker, kubernetes, ci/cd, git, aws",Automates software delivery and infrastructure.
+DevOps Engineer,"python, linux, jenkins, monitoring, cloud computing",Improves deployment and operational workflows.
+DevOps Engineer,"docker, kubernetes, git, scripting, automation",Builds automated development pipelines.
+Database Administrator,"sql, database management, mysql, backup, performance tuning",Maintains database availability and performance.
+Database Administrator,"sql, oracle, database design, security, monitoring",Manages enterprise data systems.
+Database Administrator,"mysql, postgresql, sql, data modeling, backup",Maintains structured data platforms.
+QA Engineer,"testing, selenium, python, test automation, debugging, git",Validates software quality through testing.
+QA Engineer,"manual testing, automation testing, selenium, java, jira",Designs and executes software tests.
+QA Engineer,"python, testing, api testing, bug tracking, test cases",Finds defects and improves reliability.
+Business Analyst,"sql, excel, communication, requirements analysis, power bi",Connects business needs with technical solutions.
+Business Analyst,"data analysis, documentation, stakeholder management, tableau",Analyzes processes and communicates insights.
+Business Analyst,"excel, sql, problem solving, data visualization",Supports data-informed business decisions.
+Mobile App Developer,"java, kotlin, android, api, git, ui design",Builds applications for mobile devices.
+Mobile App Developer,"kotlin, android, java, debugging, testing",Develops and tests Android applications.
+Mobile App Developer,"flutter, dart, api, responsive design, git",Creates cross-platform mobile applications.
+UI UX Designer,"figma, wireframing, prototyping, user research, ui design",Designs user-centered digital experiences.
+UI UX Designer,"figma, prototyping, usability testing, visual design",Improves usability and interface quality.
+UI UX Designer,"user research, wireframing, accessibility, design systems",Creates accessible product experiences.
